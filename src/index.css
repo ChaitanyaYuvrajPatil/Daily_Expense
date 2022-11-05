@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    margin: 0;;
+    background-color: #b7ffd5;
+}
